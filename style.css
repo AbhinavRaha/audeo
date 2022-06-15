@@ -1,0 +1,20 @@
+body
+{
+background-color: chartreuse;
+}
+h1
+{
+font-family:unset;
+font-style: unset;
+font-weight: 100;
+}
+h4
+{
+background-color: mediumspringgreen;
+}
+#Live image
+{
+width:360px;
+height:250px;
+border:1px solid grey ;
+}
